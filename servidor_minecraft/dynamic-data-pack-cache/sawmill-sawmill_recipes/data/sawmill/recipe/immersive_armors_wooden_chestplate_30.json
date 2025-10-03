@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "betternether:willow_log"
+    },
+    {
+      "item": "betternether:willow_bark"
+    },
+    {
+      "item": "betternether:willow_stripped_log"
+    },
+    {
+      "item": "betternether:willow_stripped_bark"
+    }
+  ],
+  "result": {
+    "id": "immersive_armors:wooden_chestplate",
+    "count": 1
+  },
+  "ingredient_count": 8,
+  "type": "sawmill:woodcutting"
+}

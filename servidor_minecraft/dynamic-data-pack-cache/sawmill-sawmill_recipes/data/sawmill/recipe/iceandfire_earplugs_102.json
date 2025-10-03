@@ -1,0 +1,19 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "techreborn:rubber_log"
+    },
+    {
+      "item": "techreborn:rubber_wood"
+    },
+    {
+      "item": "techreborn:stripped_rubber_wood"
+    }
+  ],
+  "result": {
+    "id": "iceandfire:earplugs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:jacaranda_log"
+    },
+    {
+      "item": "biomesoplenty:jacaranda_wood"
+    },
+    {
+      "item": "biomesoplenty:stripped_jacaranda_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_jacaranda_wood"
+    }
+  ],
+  "result": {
+    "id": "immersive_armors:wooden_leggings",
+    "count": 1
+  },
+  "ingredient_count": 7,
+  "type": "sawmill:woodcutting"
+}

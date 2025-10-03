@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "impillagers:purple_heart_log"
+  },
+  "result": {
+    "id": "impillagers:purple_heart_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

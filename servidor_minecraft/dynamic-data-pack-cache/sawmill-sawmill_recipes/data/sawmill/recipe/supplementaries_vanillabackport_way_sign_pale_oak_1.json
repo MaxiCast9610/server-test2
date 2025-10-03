@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "vanillabackport:pale_oak_planks"
+  },
+  "result": {
+    "id": "supplementaries:vanillabackport/way_sign_pale_oak",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

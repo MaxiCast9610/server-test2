@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "betternether:nether_mushroom_stem"
+  },
+  "result": {
+    "id": "techreborn:wood_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

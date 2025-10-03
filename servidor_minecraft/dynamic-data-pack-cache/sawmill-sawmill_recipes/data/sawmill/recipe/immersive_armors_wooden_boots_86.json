@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "natures_spirit:fir_log"
+    },
+    {
+      "item": "natures_spirit:fir_wood"
+    },
+    {
+      "item": "natures_spirit:stripped_fir_log"
+    },
+    {
+      "item": "natures_spirit:stripped_fir_wood"
+    }
+  ],
+  "result": {
+    "id": "immersive_armors:wooden_boots",
+    "count": 1
+  },
+  "ingredient_count": 4,
+  "type": "sawmill:woodcutting"
+}

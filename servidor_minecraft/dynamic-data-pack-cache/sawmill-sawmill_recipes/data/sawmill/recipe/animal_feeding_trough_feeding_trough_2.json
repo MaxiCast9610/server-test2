@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "aether:skyroot_log"
+    },
+    {
+      "item": "aether:skyroot_wood"
+    },
+    {
+      "item": "aether:stripped_skyroot_log"
+    },
+    {
+      "item": "aether:stripped_skyroot_wood"
+    }
+  ],
+  "result": {
+    "id": "animal_feeding_trough:feeding_trough",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

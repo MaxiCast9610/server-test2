@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "witchery:alder_log"
+    },
+    {
+      "item": "witchery:alder_wood"
+    },
+    {
+      "item": "witchery:stripped_alder_log"
+    },
+    {
+      "item": "witchery:stripped_alder_wood"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:witchery/way_sign_alder",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

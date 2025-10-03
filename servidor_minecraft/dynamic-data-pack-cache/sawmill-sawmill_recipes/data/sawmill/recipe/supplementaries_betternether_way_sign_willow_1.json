@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "betternether:willow_planks"
+  },
+  "result": {
+    "id": "supplementaries:betternether/way_sign_willow",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

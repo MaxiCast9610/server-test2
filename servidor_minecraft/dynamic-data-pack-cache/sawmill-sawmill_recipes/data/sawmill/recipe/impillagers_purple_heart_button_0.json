@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "impillagers:purple_heart_log"
+    },
+    {
+      "item": "impillagers:purple_heart_wood"
+    },
+    {
+      "item": "impillagers:stripped_purple_heart_log"
+    },
+    {
+      "item": "impillagers:stripped_purple_heart_wood"
+    }
+  ],
+  "result": {
+    "id": "impillagers:purple_heart_button",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

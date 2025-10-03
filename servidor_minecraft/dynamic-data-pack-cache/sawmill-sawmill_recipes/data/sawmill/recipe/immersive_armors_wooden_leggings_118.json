@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "betternether:stalagnate_log"
+    },
+    {
+      "item": "betternether:stalagnate_bark"
+    },
+    {
+      "item": "betternether:stalagnate_stripped_log"
+    },
+    {
+      "item": "betternether:stalagnate_stripped_bark"
+    }
+  ],
+  "result": {
+    "id": "immersive_armors:wooden_leggings",
+    "count": 1
+  },
+  "ingredient_count": 7,
+  "type": "sawmill:woodcutting"
+}

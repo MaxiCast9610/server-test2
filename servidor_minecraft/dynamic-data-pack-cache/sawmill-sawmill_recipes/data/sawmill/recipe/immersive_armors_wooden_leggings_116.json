@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "impillagers:purple_heart_log"
+    },
+    {
+      "item": "impillagers:purple_heart_wood"
+    },
+    {
+      "item": "impillagers:stripped_purple_heart_log"
+    },
+    {
+      "item": "impillagers:stripped_purple_heart_wood"
+    }
+  ],
+  "result": {
+    "id": "immersive_armors:wooden_leggings",
+    "count": 1
+  },
+  "ingredient_count": 7,
+  "type": "sawmill:woodcutting"
+}

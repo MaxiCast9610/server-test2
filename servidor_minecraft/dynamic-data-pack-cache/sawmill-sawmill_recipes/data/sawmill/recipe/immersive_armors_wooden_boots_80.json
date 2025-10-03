@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:fir_log"
+    },
+    {
+      "item": "biomesoplenty:fir_wood"
+    },
+    {
+      "item": "biomesoplenty:stripped_fir_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_fir_wood"
+    }
+  ],
+  "result": {
+    "id": "immersive_armors:wooden_boots",
+    "count": 1
+  },
+  "ingredient_count": 4,
+  "type": "sawmill:woodcutting"
+}

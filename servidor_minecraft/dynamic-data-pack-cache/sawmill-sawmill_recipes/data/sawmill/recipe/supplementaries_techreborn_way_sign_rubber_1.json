@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "techreborn:rubber_planks"
+  },
+  "result": {
+    "id": "supplementaries:techreborn/way_sign_rubber",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

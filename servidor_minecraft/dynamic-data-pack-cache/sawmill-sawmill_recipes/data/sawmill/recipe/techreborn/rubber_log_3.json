@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "techreborn:rubber_wood"
+  },
+  "result": {
+    "id": "techreborn:rubber_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

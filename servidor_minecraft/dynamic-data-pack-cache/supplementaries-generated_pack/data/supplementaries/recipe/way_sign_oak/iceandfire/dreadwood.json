@@ -1,0 +1,32 @@
+{
+  "key": {
+    "A": {
+      "ingredient": {
+        "item": "minecraft:oak_planks"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "iceandfire:dreadwood",
+      "fabric:type": "moonlight:block_type_swap"
+    },
+    "B": {
+      "ingredient": {
+        "tag": "c:rods/wooden"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "iceandfire:dreadwood",
+      "fabric:type": "moonlight:block_type_swap"
+    }
+  },
+  "pattern": [
+    "AAA",
+    " B "
+  ],
+  "result": {
+    "id": "supplementaries:iceandfire/way_sign_dreadwood",
+    "count": 3
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
+}

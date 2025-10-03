@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "techreborn:rubber_planks"
+  },
+  "result": {
+    "id": "techreborn:rubber_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

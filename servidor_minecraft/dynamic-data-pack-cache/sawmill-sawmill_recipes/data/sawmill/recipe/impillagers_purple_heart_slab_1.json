@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "impillagers:purple_heart_planks"
+  },
+  "result": {
+    "id": "impillagers:purple_heart_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

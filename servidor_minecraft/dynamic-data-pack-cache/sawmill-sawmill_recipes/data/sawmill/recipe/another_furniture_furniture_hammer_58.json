@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "witchery:alder_log"
+    },
+    {
+      "item": "witchery:alder_wood"
+    },
+    {
+      "item": "witchery:stripped_alder_log"
+    },
+    {
+      "item": "witchery:stripped_alder_wood"
+    }
+  ],
+  "result": {
+    "id": "another_furniture:furniture_hammer",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

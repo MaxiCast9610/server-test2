@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "minecells:putrid_wood"
+  },
+  "result": {
+    "id": "minecells:stripped_putrid_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

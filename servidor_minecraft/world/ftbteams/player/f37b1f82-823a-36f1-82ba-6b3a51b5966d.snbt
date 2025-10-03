@@ -1,0 +1,17 @@
+{
+	id: "f37b1f82-823a-36f1-82ba-6b3a51b5966d"
+	type: "player"
+	player_name: "JuanitoGamerXD_"
+	ranks: {
+		f37b1f82-823a-36f1-82ba-6b3a51b5966d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JuanitoGamerXD_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA8"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

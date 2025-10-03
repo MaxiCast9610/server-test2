@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:redwood_log"
+    },
+    {
+      "item": "biomesoplenty:redwood_wood"
+    },
+    {
+      "item": "biomesoplenty:stripped_redwood_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_redwood_wood"
+    }
+  ],
+  "result": {
+    "id": "immersive_armors:wooden_chestplate",
+    "count": 1
+  },
+  "ingredient_count": 8,
+  "type": "sawmill:woodcutting"
+}

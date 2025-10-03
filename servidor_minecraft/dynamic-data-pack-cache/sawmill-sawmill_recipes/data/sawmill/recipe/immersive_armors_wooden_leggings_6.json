@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:mahogany_log"
+    },
+    {
+      "item": "biomesoplenty:mahogany_wood"
+    },
+    {
+      "item": "biomesoplenty:stripped_mahogany_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_mahogany_wood"
+    }
+  ],
+  "result": {
+    "id": "immersive_armors:wooden_leggings",
+    "count": 1
+  },
+  "ingredient_count": 7,
+  "type": "sawmill:woodcutting"
+}

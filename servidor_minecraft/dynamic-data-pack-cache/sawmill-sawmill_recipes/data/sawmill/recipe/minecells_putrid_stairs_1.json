@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecells:putrid_planks"
+  },
+  "result": {
+    "id": "minecells:putrid_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

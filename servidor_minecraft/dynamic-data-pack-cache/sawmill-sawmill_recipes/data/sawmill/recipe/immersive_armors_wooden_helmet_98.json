@@ -1,0 +1,20 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "techreborn:rubber_log"
+    },
+    {
+      "item": "techreborn:rubber_wood"
+    },
+    {
+      "item": "techreborn:stripped_rubber_wood"
+    }
+  ],
+  "result": {
+    "id": "immersive_armors:wooden_helmet",
+    "count": 1
+  },
+  "ingredient_count": 5,
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "biomesoplenty:magic_log"
+    },
+    {
+      "item": "biomesoplenty:magic_wood"
+    },
+    {
+      "item": "biomesoplenty:stripped_magic_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_magic_wood"
+    }
+  ],
+  "result": {
+    "id": "immersive_armors:wooden_chestplate",
+    "count": 1
+  },
+  "ingredient_count": 8,
+  "type": "sawmill:woodcutting"
+}
