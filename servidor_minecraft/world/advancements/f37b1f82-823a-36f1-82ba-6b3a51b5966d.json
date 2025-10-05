@@ -3783,8 +3783,10 @@
       "minecraft:skeleton": "2025-10-03 22:07:48 +0000",
       "minecraft:zombified_piglin": "2025-10-05 04:26:30 +0000",
       "minecraft:spider": "2025-10-03 22:04:21 +0000",
+      "minecraft:piglin_brute": "2025-10-05 04:44:46 +0000",
       "minecraft:zombie": "2025-10-03 22:00:48 +0000",
-      "minecraft:husk": "2025-10-03 23:59:21 +0000"
+      "minecraft:husk": "2025-10-03 23:59:21 +0000",
+      "minecraft:hoglin": "2025-10-05 04:43:17 +0000"
     },
     "done": false
   },
@@ -7476,6 +7478,7 @@
       "lavender_field": "2025-10-04 00:14:34 +0000",
       "mediterranean_forest": "2025-10-04 00:08:00 +0000",
       "rainforest": "2025-10-05 04:07:29 +0000",
+      "crystalline_chasm": "2025-10-05 04:40:57 +0000",
       "rocky_rainforest": "2025-10-05 04:06:28 +0000",
       "grassland": "2025-10-05 04:08:03 +0000"
     },
@@ -8108,6 +8111,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_brown_mushroom": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:warped_forest": "2025-10-05 04:27:16 +0000"
@@ -8126,15 +8135,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_warped_wart_block": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-10-05 04:26:19 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_nether_wart_block": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
     },
     "done": true
   },
@@ -8242,6 +8275,7 @@
   },
   "adorabuild_structures:fireproof": {
     "criteria": {
+      "blackstone_bastion_small_1": "2025-10-05 04:44:39 +0000",
       "nether_fortress_medium_1": "2025-10-05 04:26:16 +0000"
     },
     "done": false
@@ -8261,6 +8295,12 @@
   "betterend:recipes/misc/copy_aeternium_upgrade": {
     "criteria": {
       "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
     },
     "done": true
   },
@@ -8309,6 +8349,18 @@
   "techreborn:recipes/misc/crafting_table/nugget/diamond_nugget": {
     "criteria": {
       "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_red_mushroom": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
     },
     "done": true
   },
