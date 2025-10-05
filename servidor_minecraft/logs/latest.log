@@ -3139,3 +3139,8 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [20:37:06] [Server thread/INFO]: Saving data for 459 chunks for dimension 'overworld' took 2 milliseconds
 [20:42:06] [Server thread/INFO]: Saving data for 459 chunks for dimension 'overworld' took 1 milliseconds
 [20:47:06] [Server thread/INFO]: Saving data for 459 chunks for dimension 'overworld' took 1 milliseconds
+[20:52:06] [Server thread/INFO]: Saving data for 459 chunks for dimension 'overworld' took 1 milliseconds
+[20:54:57] [Server thread/INFO]: Unknown command! You may not have permission to use commands
+[20:54:57] [Server thread/INFO]: hh<--[HERE]
+[20:55:05] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[20:57:06] [Server thread/INFO]: Saving data for 459 chunks for dimension 'overworld' took 1 milliseconds
