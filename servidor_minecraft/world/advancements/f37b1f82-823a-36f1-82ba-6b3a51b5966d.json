@@ -7695,15 +7695,51 @@
     },
     "done": true
   },
+  "archers:recipes/misc/netherite_scrap_from_blasting_netherite_spear": {
+    "criteria": {
+      "has_netherite_spear": "2025-10-04 17:02:22 +0000"
+    },
+    "done": true
+  },
+  "archers:recipes/misc/netherite_scrap_from_smelting_netherite_spear": {
+    "criteria": {
+      "has_netherite_spear": "2025-10-04 17:02:22 +0000"
+    },
+    "done": true
+  },
   "minecells:recipes/building_blocks/prison_cobblestone_slab_from_prison_cobblestone_stonecutting": {
     "criteria": {
       "has_prison_cobblestone": "2025-10-04 17:05:41 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/bacon_sandwich": {
+  "minecells:recipes/building_blocks/prison_cobblestone_slab": {
     "criteria": {
-      "has_bacon": "2025-10-04 17:07:01 +0000"
+      "has_prison_cobblestone": "2025-10-04 17:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecells:recipes/building_blocks/prison_cobblestone_stairs_from_prison_cobblestone_stonecutting": {
+    "criteria": {
+      "has_prison_cobblestone": "2025-10-04 17:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecells:recipes/building_blocks/prison_cobblestone_wall": {
+    "criteria": {
+      "has_prison_cobblestone": "2025-10-04 17:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecells:recipes/building_blocks/prison_cobblestone_wall_from_prison_cobblestone_stonecutting": {
+    "criteria": {
+      "has_prison_cobblestone": "2025-10-04 17:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecells:recipes/building_blocks/prison_cobblestone_stairs": {
+    "criteria": {
+      "has_prison_cobblestone": "2025-10-04 17:05:41 +0000"
     },
     "done": true
   },
@@ -7719,33 +7755,9 @@
     },
     "done": true
   },
-  "minecells:recipes/building_blocks/prison_cobblestone_slab": {
-    "criteria": {
-      "has_prison_cobblestone": "2025-10-04 17:05:41 +0000"
-    },
-    "done": true
-  },
-  "archers:recipes/misc/netherite_scrap_from_blasting_netherite_spear": {
-    "criteria": {
-      "has_netherite_spear": "2025-10-04 17:02:22 +0000"
-    },
-    "done": true
-  },
   "minecells:recipes/building_blocks/small_prison_brick_slab_from_small_prison_bricks_stonecutting": {
     "criteria": {
       "has_small_prison_bricks": "2025-10-04 17:06:48 +0000"
-    },
-    "done": true
-  },
-  "minecells:recipes/building_blocks/prison_cobblestone_stairs_from_prison_cobblestone_stonecutting": {
-    "criteria": {
-      "has_prison_cobblestone": "2025-10-04 17:05:41 +0000"
-    },
-    "done": true
-  },
-  "archers:recipes/misc/netherite_scrap_from_smelting_netherite_spear": {
-    "criteria": {
-      "has_netherite_spear": "2025-10-04 17:02:22 +0000"
     },
     "done": true
   },
@@ -7755,21 +7767,9 @@
     },
     "done": true
   },
-  "minecells:recipes/building_blocks/prison_cobblestone_wall": {
-    "criteria": {
-      "has_prison_cobblestone": "2025-10-04 17:05:41 +0000"
-    },
-    "done": true
-  },
   "minecells:recipes/building_blocks/small_prison_brick_wall": {
     "criteria": {
       "has_small_prison_bricks": "2025-10-04 17:06:48 +0000"
-    },
-    "done": true
-  },
-  "minecells:recipes/building_blocks/prison_cobblestone_wall_from_prison_cobblestone_stonecutting": {
-    "criteria": {
-      "has_prison_cobblestone": "2025-10-04 17:05:41 +0000"
     },
     "done": true
   },
@@ -7779,15 +7779,21 @@
     },
     "done": true
   },
-  "minecells:recipes/building_blocks/prison_cobblestone_stairs": {
+  "farmersdelight:recipes/food/bacon_sandwich": {
     "criteria": {
-      "has_prison_cobblestone": "2025-10-04 17:05:41 +0000"
+      "has_bacon": "2025-10-04 17:07:01 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/bacon_and_eggs": {
     "criteria": {
       "has_bacon": "2025-10-04 17:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-10-05 03:47:16 +0000"
     },
     "done": true
   },

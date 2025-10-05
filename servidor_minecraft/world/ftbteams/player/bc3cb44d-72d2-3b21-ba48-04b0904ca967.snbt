@@ -1,0 +1,17 @@
+{
+	id: "bc3cb44d-72d2-3b21-ba48-04b0904ca967"
+	type: "player"
+	player_name: "Aaron23100"
+	ranks: {
+		bc3cb44d-72d2-3b21-ba48-04b0904ca967: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Aaron23100"
+		"ftbteams:description": ""
+		"ftbteams:color": "#EBFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
