@@ -4259,3 +4259,220 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [04:31:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [04:31:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [04:31:04] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:32:45] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:32:45] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:33:00] [Worker-Main-9/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/17629, l='ServerLevel[world]', x=239.00, y=31.00, z=-563.00] as it would cause deadlock
+[04:33:00] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/17632, l='ServerLevel[world]', x=239.00, y=31.00, z=-563.00] as it would cause deadlock
+[04:33:00] [Worker-Main-10/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/17634, l='ServerLevel[world]', x=249.00, y=31.00, z=-564.00] as it would cause deadlock
+[04:33:00] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/17637, l='ServerLevel[world]', x=249.00, y=31.00, z=-564.00] as it would cause deadlock
+[04:33:37] [Netty Epoll Server IO #3/INFO]: Policy of Aaron23100 is: online
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: java.io.FileNotFoundException: https://api.mojang.com/users/profiles/minecraft/Aaron23100
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2010)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at java.base/java.net.URL.openStream(URL.java:1325)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3239)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3214)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3330)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3287)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.getOfficialUUID(UUIDFixer.java:204)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer$PolicyHolder.uuidOf(UUIDFixer.java:174)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.hookEntry(UUIDFixer.java:197)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.handler$epd000$mcwifipnp$detour_createOfflinePlayerUUID(class_4844.java:515)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_43344(class_4844.java)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_54140(class_4844.java:126)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_3248.method_12641(class_3248.java:141)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_12649(class_2915.java:30)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_11054(class_2915.java:11)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10759(class_2535.java:208)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10770(class_2535.java:193)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.channelRead0(class_2535.java:69)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[04:33:38] [Netty Epoll Server IO #3/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[04:33:38] [Server thread/INFO]: Aaron23100 (/172.28.117.239:64497) lost connection: Disconnected
+[04:33:42] [Netty Epoll Server IO #4/INFO]: Policy of Aaron23100 is: online
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: java.io.FileNotFoundException: https://api.mojang.com/users/profiles/minecraft/Aaron23100
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2010)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at java.base/java.net.URL.openStream(URL.java:1325)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3239)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3214)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3330)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//org.apache.commons.io.IOUtils.toString(IOUtils.java:3287)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.getOfficialUUID(UUIDFixer.java:204)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer$PolicyHolder.uuidOf(UUIDFixer.java:174)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.github.satxm.mcwifipnp.UUIDFixer.hookEntry(UUIDFixer.java:197)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.handler$epd000$mcwifipnp$detour_createOfflinePlayerUUID(class_4844.java:515)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_43344(class_4844.java)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//net.minecraft.class_4844.method_54140(class_4844.java:126)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//net.minecraft.class_3248.method_12641(class_3248.java:141)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_12649(class_2915.java:30)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//net.minecraft.class_2915.method_11054(class_2915.java:11)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10759(class_2535.java:208)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.method_10770(class_2535.java:193)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//net.minecraft.class_2535.channelRead0(class_2535.java:69)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//net.minecraft.class_3238.channelRead(class_3238.java:74)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[04:33:42] [Netty Epoll Server IO #4/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[04:33:53] [Server thread/INFO]: Aaron23100[/172.28.117.239:64500] logged in with entity id 17715 at (107.5, 63.0, 853.5)
+[04:33:53] [Server thread/INFO]: Sending server config values to client
+[04:33:54] [Server thread/INFO]: Aaron23100 joined the game
+[04:33:54] [Server thread/INFO]: Updating all forceload tickets for bc3cb44d-72d2-3b21-ba48-04b0904ca967
+[04:33:54] [Server thread/INFO]: Sending item configs to client
+[04:33:58] [Server thread/INFO]: Saving data for 115 chunks for dimension 'the_nether' took 0 milliseconds
+[04:33:58] [Server thread/INFO]: Saving data for 25 chunks for dimension 'prison' took 0 milliseconds
+[04:33:58] [Server thread/INFO]: Saving data for 409 chunks for dimension 'overworld' took 1 milliseconds
+[04:34:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2597ms or 51 ticks behind
+[04:34:03] [Server thread/INFO]: Channel update: Aaron23100 -> default
+[04:34:05] [Server thread/INFO]: Priority overwritten for player Aaron23100. Claiming: GRAVE / Robbing: INVENTORY
+[04:34:05] [Server thread/INFO]: Receiving client config
+[04:34:05] [Server thread/INFO]: [FANCYMENU] A client with FancyMenu installed joined the server: Aaron23100
+[04:34:24] [Server thread/INFO]: Aaron23100 lost connection: Disconnected
+[04:34:24] [Server thread/INFO]: Aaron23100 left the game
+[04:34:24] [Server thread/INFO]: Updating all forceload tickets for bc3cb44d-72d2-3b21-ba48-04b0904ca967
+[04:34:24] [Server thread/INFO]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK e026bbb2-eb21-4d91-a657-29be09366152
+[04:34:32] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:34:32] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:34:32] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:34:32] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:34:32] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:34:32] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:34:48] [Worker-Main-10/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/18612, l='ServerLevel[world]', x=-203.00, y=31.00, z=-196.00] as it would cause deadlock
+[04:34:48] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/18614, l='ServerLevel[world]', x=-203.00, y=31.00, z=-196.00] as it would cause deadlock
+[04:34:58] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:03] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:35:03] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:03] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:35:03] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:03] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:35:03] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:03] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:35:03] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:35:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:35:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:35:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:35:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:41] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:41] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:41] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:46] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:46] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:46] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:46] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:46] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:47] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:47] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:47] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:55] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:55] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:35:56] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:36:27] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:36:27] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:36:42] [Worker-Main-11/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/19878, l='ServerLevel[world]', x=-481.00, y=31.00, z=-228.00] as it would cause deadlock
+[04:36:42] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/19881, l='ServerLevel[world]', x=-481.00, y=31.00, z=-228.00] as it would cause deadlock
+[04:36:43] [Worker-Main-9/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/19912, l='ServerLevel[world]', x=-511.10, y=31.00, z=-42.00] as it would cause deadlock
+[04:36:43] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/19915, l='ServerLevel[world]', x=-511.10, y=31.00, z=-42.00] as it would cause deadlock
+[04:36:43] [Worker-Main-11/INFO]: BBox:class_3341{minX=-762, minY=22, minZ=86, maxX=-598, maxY=96, maxZ=250}
+[04:36:53] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:36:53] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:36:53] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:36:53] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:36:53] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:36:53] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:36:53] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:36:53] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:39:01] [Server thread/INFO]: Saving data for 174 chunks for dimension 'the_nether' took 2 milliseconds
+[04:39:01] [Server thread/INFO]: Saving data for 25 chunks for dimension 'prison' took 0 milliseconds
+[04:39:01] [Server thread/INFO]: Saving data for 409 chunks for dimension 'overworld' took 2 milliseconds
+[04:39:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:39:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:40:00] [Worker-Main-11/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20342, l='ServerLevel[world]', x=-314.00, y=31.00, z=224.90] as it would cause deadlock
+[04:40:00] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20345, l='ServerLevel[world]', x=-314.00, y=31.00, z=224.90] as it would cause deadlock
+[04:40:20] [Worker-Main-10/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20537, l='ServerLevel[world]', x=-466.00, y=31.00, z=270.00] as it would cause deadlock
+[04:40:20] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/20540, l='ServerLevel[world]', x=-466.00, y=31.00, z=270.00] as it would cause deadlock
+[04:40:54] [Worker-Main-9/INFO]: BBox:class_3341{minX=-762, minY=22, minZ=86, maxX=-598, maxY=96, maxZ=250}
+[04:41:05] [Worker-Main-11/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/21357, l='ServerLevel[world]', x=-470.00, y=31.00, z=-303.00] as it would cause deadlock
+[04:41:05] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/21359, l='ServerLevel[world]', x=-470.00, y=31.00, z=-303.00] as it would cause deadlock
+[04:41:07] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:41:07] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:41:24] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:41:24] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:41:24] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:42:33] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:42:33] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:42:33] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:42:34] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:42:34] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:42:34] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:42:34] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:42:34] [Worker-Main-10/WARN]: Ignoring unknown attribute 'forge:entity_gravity'

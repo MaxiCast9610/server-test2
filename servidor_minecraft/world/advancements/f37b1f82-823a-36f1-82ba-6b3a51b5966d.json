@@ -8095,6 +8095,7 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:nether_jungle": "2025-10-05 04:35:06 +0000",
       "betternether:nether_swampland_terraces": "2025-10-05 04:09:04 +0000",
       "betternether:old_swampland": "2025-10-05 04:24:07 +0000",
       "betternether:nether_swampland": "2025-10-05 04:09:53 +0000"
@@ -8191,6 +8192,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-10-05 04:36:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
     "criteria": {
       "has_diamond": "2025-10-05 04:26:19 +0000"
@@ -8215,11 +8222,23 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-10-05 04:36:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-10-05 04:26:19 +0000"
     },
     "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_rubeus": "2025-10-05 04:36:15 +0000"
+    },
+    "done": false
   },
   "adorabuild_structures:fireproof": {
     "criteria": {
@@ -8278,6 +8297,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-10-05 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_log": {
+    "criteria": {
+      "has_rubeus_bark": "2025-10-05 04:36:15 +0000"
     },
     "done": true
   },
