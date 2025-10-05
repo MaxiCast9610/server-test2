@@ -737,6 +737,7 @@
       "minecraft:old_growth_birch_forest": "2025-10-04 00:29:08 +0000",
       "natures_spirit:tropical_shores": "2025-10-05 04:07:16 +0000",
       "minecraft:deep_dark": "2025-10-03 23:33:14 +0000",
+      "natures_spirit:white_cliffs": "2025-10-05 20:35:43 +0000",
       "minecraft:sunflower_plains": "2025-10-04 00:14:57 +0000",
       "minecraft:grove": "2025-10-04 00:26:34 +0000",
       "minecraft:birch_forest": "2025-10-04 00:24:40 +0000",
@@ -8112,24 +8113,24 @@
     },
     "done": false
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-10-05 04:24:08 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:fireproof": {
+    "criteria": {
+      "blackstone_bastion_small_1": "2025-10-05 04:44:39 +0000",
+      "nether_fortress_medium_1": "2025-10-05 04:26:16 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/misc/copy_bowl_upgrade": {
     "criteria": {
       "has_diamond": "2025-10-05 04:26:19 +0000"
     },
     "done": true
-  },
-  "techreborn:recipes/chemical_reactor/shroomlight_from_brown_mushroom": {
-    "criteria": {
-      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-10-05 04:55:59 +0000",
-      "minecraft:warped_forest": "2025-10-05 04:27:16 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
@@ -8143,111 +8144,15 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_mossy_netherrack_bricks": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
-    "criteria": {
-      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-10-05 04:54:02 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/shroomlight_from_warped_wart_block": {
-    "criteria": {
-      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/netherrack_wall_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-10-05 04:26:19 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/lamp_led": {
-    "criteria": {
-      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
-    },
-    "done": true
-  },
-  "eternalnether:recipes/building_blocks/blackstone": {
-    "criteria": {
-      "has_cobbled_blackstone": "2025-10-05 04:53:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
-    "criteria": {
-      "has_netherrack": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
-    "criteria": {
-      "has_tag_minecraft_wooden_trapdoors": "2025-10-05 04:54:58 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/shroomlight_from_nether_wart_block": {
-    "criteria": {
-      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-10-05 04:50:29 +0000"
-    },
-    "done": true
-  },
-  "charm:kilns/recipes/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
-  "charm:copper_pistons/recipes/sticky_copper_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-10-05 04:49:58 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_or_polished_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack_or_polished_netherrack": "2025-10-05 04:49:59 +0000"
     },
     "done": true
   },
@@ -8263,9 +8168,316 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/parts/template_template": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "shields:recipes/combat/diamond_shield_plating": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/synthetic_redstone_crystal": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/diamond_nugget": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "xp_storage:recipes/misc/diamond_xp_book_upgrade": {
+    "criteria": {
+      "has_xp_book_upgrade_ingredient": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-05 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-05 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-10-05 04:26:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-10-05 04:55:59 +0000",
+      "minecraft:warped_forest": "2025-10-05 04:27:16 +0000"
+    },
+    "done": false
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_rubeus": "2025-10-05 04:36:15 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/building_blocks/rubeus_log": {
+    "criteria": {
+      "has_rubeus_bark": "2025-10-05 04:36:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-10-05 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-10-05 04:36:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_brown_mushroom": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_warped_wart_block": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_nether_wart_block": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/shroomlight_from_red_mushroom": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "charm:copper_pistons/recipes/sticky_copper_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-10-05 04:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-10-05 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magma_cream": {
+    "criteria": {
+      "has_slime_ball": "2025-10-05 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_slime_ball": {
+    "criteria": {
+      "has_slime_ball": "2025-10-05 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-10-05 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-10-05 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/pointed_dripstone": {
+    "criteria": {
+      "has_slime_ball": "2025-10-05 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-10-05 04:49:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_mossy_netherrack_bricks": "2025-10-05 04:49:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/netherrack_wall_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-10-05 04:49:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-10-05 04:49:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-10-05 04:49:59 +0000"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-10-05 04:49:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_or_polished_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack_or_polished_netherrack": "2025-10-05 04:49:59 +0000"
     },
     "done": true
   },
@@ -8278,18 +8490,6 @@
   "betternether:recipes/building_blocks/netherrack_netherrack_slab": {
     "criteria": {
       "has_netherrack": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
-  "witchery:recipes/misc/quartz_sphere": {
-    "criteria": {
-      "has_quartz": "2025-10-05 04:50:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
     },
     "done": true
   },
@@ -8317,75 +8517,15 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
-    "criteria": {
-      "has_blaze_rod": "2025-10-05 04:54:02 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/parts/template_template": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "shields:recipes/combat/diamond_shield_plating": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-10-05 04:50:29 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_or_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_netherrack_bricks": "2025-10-05 04:49:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/warped_cabinet": {
-    "criteria": {
-      "has_warped_trapdoor": "2025-10-05 04:54:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-10-05 05:14:08 +0000"
-    },
-    "done": true
-  },
-  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/magma_cream": {
-    "criteria": {
-      "has_slime_ball": "2025-10-05 04:49:58 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/netherrack_wall": {
     "criteria": {
       "has_netherrack": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/quartz_glass_smelting": {
-    "criteria": {
-      "has_quartz": "2025-10-05 04:50:29 +0000"
     },
     "done": true
   },
@@ -8413,33 +8553,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
-    "criteria": {
-      "has_tag_minecraft_signs": "2025-10-05 04:55:01 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/netherrack_netherrack_stairs": {
     "criteria": {
       "has_netherrack": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-10-05 04:54:02 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
     },
     "done": true
   },
@@ -8455,30 +8571,6 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/bn_brown_mushroom": {
-    "criteria": {
-      "has_wall_mushroom_brown": "2025-10-05 04:36:29 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-10-05 04:26:31 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-10-05 04:49:59 +0000"
@@ -8491,64 +8583,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/chemical_reactor/synthetic_redstone_crystal": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/bn_red_mushroom": {
-    "criteria": {
-      "has_wall_mushroom_red": "2025-10-05 04:36:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-10-05 04:50:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-10-05 04:50:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "betternether:nether_wood": {
-    "criteria": {
-      "got_rubeus": "2025-10-05 04:36:15 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-10-05 04:50:29 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:fireproof": {
-    "criteria": {
-      "blackstone_bastion_small_1": "2025-10-05 04:44:39 +0000",
-      "nether_fortress_medium_1": "2025-10-05 04:26:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
     },
     "done": true
   },
@@ -8564,57 +8601,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_gloves": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
-    "criteria": {
-      "has_tag_minecraft_wooden_trapdoors": "2025-10-05 04:54:58 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/copy_aeternium_upgrade": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/rubber_from_slime_ball": {
-    "criteria": {
-      "has_slime_ball": "2025-10-05 04:49:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_fortress": "2025-10-05 04:57:30 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/bricks_fire_bowl": {
     "criteria": {
       "has_netherrack": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
     },
     "done": true
   },
@@ -8624,87 +8613,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/slime": {
-    "criteria": {
-      "has_item": "2025-10-05 04:49:58 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/copy_netherite_upgrade": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_jukebox": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-10-05 04:26:31 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/brewing/nether_brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-10-05 04:54:02 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherrack": "2025-10-05 04:49:59 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
-    "criteria": {
-      "has_tag_minecraft_signs": "2025-10-05 04:55:01 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_cobbled_netherrack": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/rubeus_log": {
-    "criteria": {
-      "has_rubeus_bark": "2025-10-05 04:36:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-10-05 04:50:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-10-05 04:49:58 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/diamond_nugget": {
-    "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/shroomlight_from_red_mushroom": {
-    "criteria": {
-      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
     },
     "done": true
   },
@@ -8717,36 +8634,6 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_netherrack_bricks": "2025-10-05 04:49:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-10-05 04:54:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-10-05 04:43:25 +0000"
-    },
-    "done": true
-  },
-  "xp_storage:recipes/misc/diamond_xp_book_upgrade": {
-    "criteria": {
-      "has_xp_book_upgrade_ingredient": "2025-10-05 04:26:19 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/pointed_dripstone": {
-    "criteria": {
-      "has_slime_ball": "2025-10-05 04:49:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-10-05 04:24:08 +0000"
     },
     "done": true
   },
@@ -8768,17 +8655,131 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "has_diamond": "2025-10-05 04:26:19 +0000"
+      "has_quartz": "2025-10-05 04:50:29 +0000"
     },
     "done": true
   },
-  "repurposed_structures:ruins": {
+  "witchery:recipes/misc/quartz_sphere": {
     "criteria": {
-      "in_ruins_nether": "2025-10-05 04:26:55 +0000"
+      "has_quartz": "2025-10-05 04:50:29 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-10-05 04:50:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_quartz": "2025-10-05 04:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-10-05 04:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-10-05 04:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-10-05 04:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-10-05 04:50:29 +0000"
+    },
+    "done": true
+  },
+  "eternalnether:recipes/building_blocks/blackstone": {
+    "criteria": {
+      "has_cobbled_blackstone": "2025-10-05 04:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-10-05 04:54:02 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-05 04:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-05 04:54:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-05 04:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-10-05 04:54:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-10-05 04:54:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/warped_cabinet": {
+    "criteria": {
+      "has_warped_trapdoor": "2025-10-05 04:54:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-10-05 04:54:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-10-05 04:55:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-10-05 04:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-10-05 04:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-10-05 05:14:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

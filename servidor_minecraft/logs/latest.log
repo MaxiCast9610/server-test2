@@ -3127,3 +3127,13 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [20:30:03] [Worker-Main-4/WARN]: Method overwrite conflict for getStoneDepthBelow in bclib.mixins.common.json:SurfaceRulesContextAccessor from mod bclib, previously written by dev.worldgen.lithostitched.mixin.common.SurfaceRulesContextMixin. Skipping method.
 [20:30:03] [Worker-Main-4/WARN]: Method overwrite conflict for getChunk in wover.surface.mixins.common.json:SurfaceRulesContextAccessor from mod wover-surface, previously written by dev.worldgen.lithostitched.mixin.common.SurfaceRulesContextMixin. Skipping method.
 [20:30:03] [Worker-Main-4/WARN]: Method overwrite conflict for getStoneDepthBelow in wover.surface.mixins.common.json:SurfaceRulesContextAccessor from mod wover-surface, previously written by dev.worldgen.lithostitched.mixin.common.SurfaceRulesContextMixin. Skipping method.
+[20:30:28] [Server thread/INFO]: [JuanitoGamerXD_: Set own game mode to Survival Mode]
+[20:31:18] [Server thread/INFO]: [JuanitoGamerXD_: Set own game mode to Creative Mode]
+[20:32:06] [Server thread/INFO]: Saving data for 444 chunks for dimension 'overworld' took 2 milliseconds
+[20:33:49] [Server thread/INFO]: [JuanitoGamerXD_: Set the time to 1000]
+[20:34:21] [Server thread/INFO]: Locating element #dungeons_arise:has_structure/illager_corsair_biomes (minecraft:lukewarm_ocean) took 9 ms
+[20:34:24] [Server thread/INFO]: [JuanitoGamerXD_: Teleported JuanitoGamerXD_ to 241.500000, 79.000000, 697.500000]
+[20:36:25] [Server thread/INFO]: JuanitoGamerXD_ lost connection: Disconnected
+[20:36:25] [Server thread/INFO]: JuanitoGamerXD_ left the game
+[20:36:25] [Server thread/INFO]: Updating all forceload tickets for f37b1f82-823a-36f1-82ba-6b3a51b5966d
+[20:37:06] [Server thread/INFO]: Saving data for 459 chunks for dimension 'overworld' took 2 milliseconds
