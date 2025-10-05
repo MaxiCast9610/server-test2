@@ -7639,7 +7639,8 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_dark_forest": "2025-10-04 00:25:55 +0000"
+      "in_village_dark_forest": "2025-10-04 00:25:55 +0000",
+      "in_village_warped": "2025-10-05 04:59:29 +0000"
     },
     "done": false
   },
@@ -8101,8 +8102,10 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:wart_forest_edge": "2025-10-05 05:00:38 +0000",
       "betternether:nether_jungle": "2025-10-05 04:35:06 +0000",
       "betternether:gravel_desert": "2025-10-05 04:56:27 +0000",
+      "betternether:old_fungiwoods": "2025-10-05 05:01:15 +0000",
       "betternether:nether_swampland_terraces": "2025-10-05 04:09:04 +0000",
       "betternether:old_swampland": "2025-10-05 04:24:07 +0000",
       "betternether:nether_swampland": "2025-10-05 04:09:53 +0000"

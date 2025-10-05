@@ -4555,3 +4555,14 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [05:01:20] [Worker-Main-11/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/30745, l='ServerLevel[world]', x=-685.00, y=31.00, z=452.00] as it would cause deadlock
 [05:01:20] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/30747, l='ServerLevel[world]', x=-685.00, y=31.00, z=452.00] as it would cause deadlock
 [05:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4792ms or 95 ticks behind
+[05:04:05] [Server thread/INFO]: Saving data for 296 chunks for dimension 'the_nether' took 1 milliseconds
+[05:04:05] [Server thread/INFO]: Saving data for 25 chunks for dimension 'prison' took 1 milliseconds
+[05:04:05] [Server thread/INFO]: Saving data for 409 chunks for dimension 'overworld' took 1 milliseconds
+[05:09:05] [Server thread/INFO]: Saving data for 343 chunks for dimension 'the_nether' took 5 milliseconds
+[05:09:05] [Server thread/INFO]: Saving data for 25 chunks for dimension 'prison' took 0 milliseconds
+[05:09:05] [Server thread/INFO]: Saving data for 409 chunks for dimension 'overworld' took 1 milliseconds
+[05:11:16] [Server thread/INFO]: [JuanitoGamerXD_: Set own game mode to Spectator Mode]
+[05:11:18] [Server thread/INFO]: [JuanitoGamerXD_: Set own game mode to Survival Mode]
+[05:11:23] [Server thread/INFO]: JuanitoGamerXD_ tried to swim in lava
+[05:11:39] [Server thread/INFO]: [JuanitoGamerXD_: Set own game mode to Creative Mode]
+[05:12:37] [Server thread/INFO]: Villager class_1646['Unemployed'/2726, l='ServerLevel[world]', x=87.69, y=78.00, z=832.63] died, message: 'Unemployed was killed by Witch using magic'
