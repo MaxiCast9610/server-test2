@@ -3781,6 +3781,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-10-03 22:07:48 +0000",
+      "minecraft:zombified_piglin": "2025-10-05 04:26:30 +0000",
       "minecraft:spider": "2025-10-03 22:04:21 +0000",
       "minecraft:zombie": "2025-10-03 22:00:48 +0000",
       "minecraft:husk": "2025-10-03 23:59:21 +0000"
@@ -7470,6 +7471,7 @@
     "criteria": {
       "volcanic_plains": "2025-10-05 04:05:58 +0000",
       "floodplain": "2025-10-05 04:05:48 +0000",
+      "undergrowth": "2025-10-05 04:24:29 +0000",
       "overgrown_greens": "2025-10-05 04:08:06 +0000",
       "lavender_field": "2025-10-04 00:14:34 +0000",
       "mediterranean_forest": "2025-10-04 00:08:00 +0000",
@@ -8094,7 +8096,218 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:nether_swampland_terraces": "2025-10-05 04:09:04 +0000",
+      "betternether:old_swampland": "2025-10-05 04:24:07 +0000",
       "betternether:nether_swampland": "2025-10-05 04:09:53 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-10-05 04:27:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_minecraft:diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "shields:recipes/combat/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/parts/template_template": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "shields:recipes/combat/diamond_shield_plating": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-05 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/synthetic_redstone_crystal": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:fireproof": {
+    "criteria": {
+      "nether_fortress_medium_1": "2025-10-05 04:26:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-05 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/diamond_nugget": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "xp_storage:recipes/misc/diamond_xp_book_upgrade": {
+    "criteria": {
+      "has_xp_book_upgrade_ingredient": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-10-05 04:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-10-05 04:26:19 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-10-05 04:26:55 +0000"
     },
     "done": false
   },
