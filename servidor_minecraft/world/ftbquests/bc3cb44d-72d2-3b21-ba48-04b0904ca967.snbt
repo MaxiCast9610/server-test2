@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "bc3cb44d72d23b21ba4804b0904ca967"
+	name: "Aaron23100#bc3cb44d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
