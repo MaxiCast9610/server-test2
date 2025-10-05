@@ -724,14 +724,18 @@
       "natures_spirit:flowering_shrubland": "2025-10-04 00:14:36 +0000",
       "natures_spirit:chaparral": "2025-10-03 21:51:59 +0000",
       "minecraft:savanna_plateau": "2025-10-04 00:04:09 +0000",
+      "minecraft:beach": "2025-10-05 04:08:02 +0000",
       "minecraft:dark_forest": "2025-10-04 00:29:10 +0000",
       "minecraft:stony_peaks": "2025-10-04 00:05:20 +0000",
       "minecraft:forest": "2025-10-03 22:08:41 +0000",
       "minecraft:river": "2025-10-03 21:41:12 +0000",
+      "minecraft:lukewarm_ocean": "2025-10-05 04:06:36 +0000",
+      "minecraft:stony_shore": "2025-10-05 04:07:06 +0000",
       "minecraft:dripstone_caves": "2025-10-03 22:15:54 +0000",
       "natures_spirit:cypress_fields": "2025-10-03 21:28:11 +0000",
       "natures_spirit:oak_savanna": "2025-10-04 00:17:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-10-04 00:29:08 +0000",
+      "natures_spirit:tropical_shores": "2025-10-05 04:07:16 +0000",
       "minecraft:deep_dark": "2025-10-03 23:33:14 +0000",
       "minecraft:sunflower_plains": "2025-10-04 00:14:57 +0000",
       "minecraft:grove": "2025-10-04 00:26:34 +0000",
@@ -3744,8 +3748,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-10-03 22:17:01 +0000",
+      "mutton": "2025-10-05 03:58:49 +0000",
       "apple": "2025-10-03 22:03:32 +0000",
       "bread": "2025-10-03 21:59:46 +0000",
+      "sweet_berries": "2025-10-05 03:59:01 +0000",
       "cooked_beef": "2025-10-03 23:49:38 +0000",
       "beef": "2025-10-03 22:05:56 +0000",
       "baked_potato": "2025-10-03 22:16:38 +0000",
@@ -7462,8 +7468,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "volcanic_plains": "2025-10-05 04:05:58 +0000",
+      "floodplain": "2025-10-05 04:05:48 +0000",
+      "overgrown_greens": "2025-10-05 04:08:06 +0000",
       "lavender_field": "2025-10-04 00:14:34 +0000",
-      "mediterranean_forest": "2025-10-04 00:08:00 +0000"
+      "mediterranean_forest": "2025-10-04 00:08:00 +0000",
+      "rainforest": "2025-10-05 04:07:29 +0000",
+      "rocky_rainforest": "2025-10-05 04:06:28 +0000",
+      "grassland": "2025-10-05 04:08:03 +0000"
     },
     "done": false
   },
@@ -7905,6 +7917,13 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:nether_swampland_terraces": "2025-10-05 04:09:04 +0000",
+      "betternether:nether_swampland": "2025-10-05 04:09:53 +0000"
+    },
+    "done": false
+  },
   "techreborn:recipes/centrifuge/methan_cell_from_egg": {
     "criteria": {
       "has_egg": "2025-10-05 03:58:34 +0000"
@@ -7923,9 +7942,45 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-10-05 04:08:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-10-05 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
     },
     "done": true
   },
@@ -7938,6 +7993,48 @@
   "tradingpost:recipes/decorations/trading_post": {
     "criteria": {
       "has_emerald": "2025-10-05 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-10-05 04:08:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "structure_found": "2025-10-05 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-10-05 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
     },
     "done": true
   },
@@ -7965,9 +8062,33 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-10-05 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-10-05 04:08:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/emerald_nugget": {
     "criteria": {
       "has_emerald": "2025-10-05 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "eternalnether:root": {
+    "criteria": {
+      "entered_nether": "2025-10-05 04:08:59 +0000"
     },
     "done": true
   },
