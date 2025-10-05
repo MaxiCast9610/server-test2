@@ -7917,12 +7917,41 @@
     },
     "done": true
   },
-  "betternether:all_the_biomes": {
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
     "criteria": {
-      "betternether:nether_swampland_terraces": "2025-10-05 04:09:04 +0000",
-      "betternether:nether_swampland": "2025-10-05 04:09:53 +0000"
+      "has_emerald": "2025-10-05 03:58:28 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-10-05 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "tradingpost:recipes/decorations/trading_post": {
+    "criteria": {
+      "has_emerald": "2025-10-05 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/friend_pottery_sherd": {
+    "criteria": {
+      "has_emerald": "2025-10-05 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_minecraft:emerald": "2025-10-05 03:58:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/emerald_nugget": {
+    "criteria": {
+      "has_emerald": "2025-10-05 03:58:28 +0000"
+    },
+    "done": true
   },
   "techreborn:recipes/centrifuge/methan_cell_from_egg": {
     "criteria": {
@@ -7930,15 +7959,39 @@
     },
     "done": true
   },
-  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
-    "criteria": {
-      "has_emerald": "2025-10-05 03:58:28 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-10-05 03:58:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-10-05 03:58:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-10-05 03:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-10-05 03:58:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-10-05 03:58:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "structure_found": "2025-10-05 04:07:56 +0000"
     },
     "done": true
   },
@@ -7960,18 +8013,6 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-10-05 04:08:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-10-05 03:58:28 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
@@ -7981,24 +8022,6 @@
   "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
     "criteria": {
       "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/food/skyroot_milk_bucket_cake": {
-    "criteria": {
-      "has_egg": "2025-10-05 03:58:34 +0000"
-    },
-    "done": true
-  },
-  "tradingpost:recipes/decorations/trading_post": {
-    "criteria": {
-      "has_emerald": "2025-10-05 03:58:28 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/flint_and_steel_repairing": {
-    "criteria": {
-      "has_flint_and_steel": "2025-10-05 04:08:50 +0000"
     },
     "done": true
   },
@@ -8014,18 +8037,6 @@
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "structure_found": "2025-10-05 04:07:56 +0000"
-    },
-    "done": true
-  },
-  "betternether:enter_nether": {
-    "criteria": {
-      "entered_nether": "2025-10-05 04:08:59 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
     "criteria": {
       "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
@@ -8038,33 +8049,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-10-05 03:58:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-10-05 03:58:34 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/friend_pottery_sherd": {
-    "criteria": {
-      "has_emerald": "2025-10-05 03:58:28 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
-    "criteria": {
-      "has_minecraft:emerald": "2025-10-05 03:58:28 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
     "criteria": {
       "has_blue_obsidian": "2025-10-05 04:08:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-10-05 04:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-10-05 04:08:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-10-05 04:08:59 +0000"
     },
     "done": true
   },
@@ -8080,23 +8085,18 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/nugget/emerald_nugget": {
-    "criteria": {
-      "has_emerald": "2025-10-05 03:58:28 +0000"
-    },
-    "done": true
-  },
   "eternalnether:root": {
     "criteria": {
       "entered_nether": "2025-10-05 04:08:59 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "betternether:all_the_biomes": {
     "criteria": {
-      "fried_egg": "2025-10-05 03:58:34 +0000"
+      "betternether:nether_swampland_terraces": "2025-10-05 04:09:04 +0000",
+      "betternether:nether_swampland": "2025-10-05 04:09:53 +0000"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 3955
 }
